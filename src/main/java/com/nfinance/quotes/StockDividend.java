@@ -6,5 +6,5 @@ public class StockDividend {
 
     private Double yieldRate;
 
-    private Double yieldPrice;
+    private BigDecimal yieldPrice;
 }
