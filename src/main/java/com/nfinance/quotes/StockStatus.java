@@ -4,6 +4,8 @@ import java.math.BigDecimal;
 
 public class StockStatus {
 
+    private String symbolCode;
+
     private Long accumulatedTradingVolume;  // 거래량
     private BigDecimal accumulatedTradingPrice;  // 거래대금
     private BigDecimal marketPrice; // 시총
