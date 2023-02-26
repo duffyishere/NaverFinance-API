@@ -1,8 +1,8 @@
-package com.nfinance;
+package com.duffy.nfinance.api;
 
-import com.nfinance.quotes.StockDividend;
-import com.nfinance.quotes.StockQuote;
-import com.nfinance.quotes.StockStatus;
+import com.duffy.nfinance.api.quotes.stock.StockDividend;
+import com.duffy.nfinance.api.quotes.stock.StockQuote;
+import com.duffy.nfinance.api.quotes.stock.StockStatus;
 
 import java.time.LocalDateTime;
 

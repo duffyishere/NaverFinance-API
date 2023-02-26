@@ -1,4 +1,4 @@
-package com.nfinance.quotes;
+package com.duffy.nfinance.api.quotes.stock;
 
 import java.math.BigDecimal;
 
